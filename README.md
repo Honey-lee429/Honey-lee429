@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Honey-lee429
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning javascript, html5, css3
+- 🌱 I’m currently learning Java, Javascript, html5, css3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
