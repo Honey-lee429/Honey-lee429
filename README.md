@@ -3,11 +3,14 @@
   I’m Hanely Taniguchi and I'm Java Fullstack Developer. I'm from Brazil, currently looking for a job opportunity <br>
   📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/hanely-taniguchi/)
   
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
    <sumary><b> Things to know about me! </b> <i>(click to expand!)<details></i></sumary>
     
 - 👀 I’m interested in full stack
 - 🌱 I’m currently learning Java, Javascript, HTML5, CSS3, Bootstrap, Angular
 - I do know that HTML and CSS are not a programming language! 
+- 💬 Ask me about anything, I am happy to help;
   
 </details>
 
