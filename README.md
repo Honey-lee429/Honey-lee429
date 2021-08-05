@@ -1,7 +1,10 @@
-Hi there 👋
+##Hi there## 👋
 
-  I’m Hanely Taniguchi, I'm currently learning programming language <br>
-  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanely-taniguchi/)
+  I’m Hanely Taniguchi and I'm Java Fullstack Developer. I'm from Brazil, currently looking for a job opportunity <br>
+  📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/hanely-taniguchi/)
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
  <details><sumary><b> Things to know about me! </b> <i>(click to expand!)</i></sumary>
     
