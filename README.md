@@ -5,10 +5,9 @@
 - 📫 How to reach me https://www.linkedin.com/in/hanely-taniguchi/
 
 
-  <sumary> <b> Things to know about me! </b> <i> (click to expand!) </sumary>
-    
-    <br>
-      This is going to be hidden.
+  <details>
+
+</details>
 
 <!---
 Honey-lee429/Honey-lee429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
