@@ -2,6 +2,7 @@
 Hello World! 👋
 ```
 
+
   I’m Hanely Taniguchi and I'm Java Fullstack Developer. I'm from Brazil, currently looking for a job opportunity
   
   📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/hanely-taniguchi/)
@@ -15,8 +16,16 @@ Hello World! 👋
 - 🤞 I do know that HTML and CSS are not a programming language! 
 - 💬 Ask me about anything, I am happy to help;
   
+</div>
+  <br>
+<body>
+  <div>
+    <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honey-lee429&layout=compact&show_icons=true&theme=radical" alt="hanelymenezes"/> 
+    </p>
+  </div>
+</body>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Honey-lee429)
 
 ![Hanely Taniguchi](https://github-readme-stats.vercel.app/api?username=hanely&show_icons=true&theme=radical)
 
