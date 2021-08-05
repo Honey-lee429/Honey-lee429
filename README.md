@@ -1,22 +1,23 @@
-### Hi there 👋
+```js 
+Hello World! 👋
+```
 
-  I’m Hanely Taniguchi and I'm Java Fullstack Developer. I'm from Brazil, currently looking for a job opportunity <br>
+  I’m Hanely Taniguchi and I'm Java Fullstack Developer. I'm from Brazil, currently looking for a job opportunity
+  
   📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/hanely-taniguchi/)
   
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-   <sumary><b> Things to know about me! </b> <i>(click to expand!)<details></i></sumary>
+ ## Things to know about me!
     
 - 👀 I’m interested in full stack
-- 🌱 I’m currently learning Java, Javascript, HTML5, CSS3, Bootstrap, Angular
-- I do know that HTML and CSS are not a programming language! 
+- 💻 I’m currently learning Java, Javascript, HTML5, CSS3, Bootstrap, Angular
+- 🤞 I do know that HTML and CSS are not a programming language! 
 - 💬 Ask me about anything, I am happy to help;
   
-</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  
 ![Hanely Taniguchi](https://github-readme-stats.vercel.app/api?username=hanely&show_icons=true&theme=radical)
 
  
