@@ -27,7 +27,7 @@ Hello World! 👋
 </body>
 
 
-![Hanely Taniguchi](https://github-readme-stats.vercel.app/api?username=hanely&show_icons=true&theme=radical)
+![Hanely Taniguchi](https://github-readme-stats.vercel.app/api?username=honey-lee429&show_icons=true&theme=radical)
 
  
    
