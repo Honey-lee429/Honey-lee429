@@ -3,7 +3,7 @@ Hello World! 👋
 ```
 
 
-  I’m Hanely Taniguchi and I'm Java Fullstack Developer at Capgemini. I'm from Brazil.
+  I’m Hanely Taniguchi and I'm Developer at Capgemini. I'm from Brazil.
   
   📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/hanely-taniguchi/)
   
