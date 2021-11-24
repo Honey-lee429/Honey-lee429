@@ -12,7 +12,7 @@ Hello World! 👋
  ## Things to know about me!
     
 - 👀 I’m interested in full stack
-- 💻 I’m currently learning Java, Javascript, HTML5, CSS3, Bootstrap, Angular
+- 💻 I’m currently learning Java, AWS, Spring Boot, Javascript, HTML5, CSS3, Bootstrap, Angular
 - 🤞 I do know that HTML and CSS are not a programming language! 
 - 💬 Ask me about anything, I am happy to help;
   
